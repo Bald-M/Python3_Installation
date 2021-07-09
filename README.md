@@ -7,5 +7,5 @@
 ~~~
 [root@localhost ~]# unzip Python3_Installation.zip
 [root@localhost ~]# cd Python3_Installation/
-[root@localhost Python3_Installation]# sh install.sh
+[root@localhost Python3_Installation]# sh install_python3.sh
 ~~~
