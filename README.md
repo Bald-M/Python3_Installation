@@ -1,6 +1,7 @@
 ## Python3_Installation
 
 ### This ia a script to install Python3 on CentOS7, written by shell.
+### Email: 2411663991@qq.com
 ### Warning: Please do not delete any file inside py3!!!
 
 ## Red Hat/CentOS
