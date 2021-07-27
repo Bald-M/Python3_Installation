@@ -5,9 +5,15 @@
 ### Warning: Please do not delete any file from py3 directory!!!
 
 ## Red Hat/CentOS
-
+## Install
 ~~~
 [root@localhost ~]# unzip Python3_Installation.zip
 [root@localhost ~]# cd Python3_Installation/
-[root@localhost Python3_Installation]# sh install_python3.sh
+[root@localhost Python3_Installation]# sh install.sh
+~~~
+## Uninstall
+~~~
+[root@localhost ~]# unzip Python3_Installation.zip
+[root@localhost ~]# cd Python3_Installation/
+[root@localhost Python3_Installation]# sh uninstall.sh
 ~~~
