@@ -1,4 +1,5 @@
 #!/bin/bash
+# Test command
 PATH=/bin:/sbin:/usr/bin:/usr/sbin
 export PATH
 #更换豆瓣源
